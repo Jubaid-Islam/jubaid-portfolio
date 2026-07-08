@@ -177,7 +177,7 @@ export default function CaseStudySection() {
 
   return (
     <section className="bg-neutral-50 py-24">
-      <div className="max-w-5xl mx-auto px-6">
+      <div className="max-w-6xl mx-auto px-6">
 
         {/* Section Label */}
         <motion.div

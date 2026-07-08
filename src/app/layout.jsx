@@ -7,6 +7,10 @@ export const metadata = {
   title: "Jubaid Islam — MERN-Stack Developer",
   description:
     "Portfolio of Jubaid Islam, a MERN-Stack developer building products that perform, scale, and solve real problems.",
+
+  verification: {
+    google: "6C6AfKcX5lXJSCrbiIopI-e7KkvRGBVdPDSnhcE2A-A",
+  },
 };
 
 export default function RootLayout({ children }) {
